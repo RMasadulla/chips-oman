@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heroSection {
+    /* background:  linear-gradient(45deg, #D91414, #081AB9); */
+    background:  linear-gradient(.5turn, #081AB9 2%, #D91414);
+}
